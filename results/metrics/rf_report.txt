@@ -1,0 +1,10 @@
+Testing accuracy for models/random_forest_model.pkl: 0.8215410548729095
+              precision    recall  f1-score   support
+
+      attack       0.97      0.71      0.82     12832
+      normal       0.72      0.97      0.82      9711
+
+    accuracy                           0.82     22543
+   macro avg       0.84      0.84      0.82     22543
+weighted avg       0.86      0.82      0.82     22543
+

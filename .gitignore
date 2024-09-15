@@ -1,3 +1,29 @@
-_venv
-.ipynb_checkpoints
+# Python specific
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.db
 
+# Jupyter Notebook specific
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Virtual environment
+_venv/
+.env/
+
+# IDE/editor specific
+.vscode/
+.idea/
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Backup files
+*~
+
+build/

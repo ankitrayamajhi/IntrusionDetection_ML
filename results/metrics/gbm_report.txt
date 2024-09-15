@@ -1,0 +1,10 @@
+Testing accuracy for models/gbm_model.pkl: 0.8529476999512043
+              precision    recall  f1-score   support
+
+      attack       0.97      0.77      0.86     12832
+      normal       0.76      0.97      0.85      9711
+
+    accuracy                           0.85     22543
+   macro avg       0.86      0.87      0.85     22543
+weighted avg       0.88      0.85      0.85     22543
+

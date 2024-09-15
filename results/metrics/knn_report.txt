@@ -1,0 +1,10 @@
+Testing accuracy for models/knn_model.pkl: 0.8162622543583374
+              precision    recall  f1-score   support
+
+      attack       0.97      0.70      0.81     12832
+      normal       0.71      0.98      0.82      9711
+
+    accuracy                           0.82     22543
+   macro avg       0.84      0.84      0.82     22543
+weighted avg       0.86      0.82      0.82     22543
+
